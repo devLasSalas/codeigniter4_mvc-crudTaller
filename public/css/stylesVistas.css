@@ -1,0 +1,23 @@
+.container__scroll {
+    margin: 20px;
+    padding: 10px;
+    display: flex;
+    width: 80%;
+    height: 500px;
+    border: 2px solid black;
+    border-radius: 50px;    
+    overflow-y: scroll;
+
+}
+
+.container__scroll::-webkit-scrollbar {
+   background: transparent;
+}
+
+.input_valor {
+    outline: none;
+    border: none;
+    border: 1px solid rgb(104, 226, 185);
+    background: transparent;
+    padding: 2px;
+}

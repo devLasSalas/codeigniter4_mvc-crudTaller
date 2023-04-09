@@ -1,0 +1,1281 @@
+CRITICAL - 2023-03-12 03:32:10 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-03-12 03:32:28 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-03-12 03:32:28 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-03-12 02:50:59 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:51:00 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:51:48 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:51:49 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:51:49 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:51:49 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:51:49 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:51:49 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:51:50 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:51:50 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:52:00 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:52:06 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:52:12 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:52:25 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:52:34 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:52:34 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:52:35 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:53:14 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:53:14 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:53:14 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:53:27 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 19.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:53:27 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 19.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:53:33 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:53:33 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:53:39 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:53:39 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 02:54:55 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Departamentos.php on line 20.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('departamentos')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('departamentos')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('departamentos')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:12:53 --> Call to undefined function App\Controllers\findAll()
+in APPPATH\Controllers\Departamentos.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Departamentos->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departamentos))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:12:54 --> Call to undefined function App\Controllers\findAll()
+in APPPATH\Controllers\Departamentos.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Departamentos->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departamentos))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:13:06 --> Call to undefined function App\Controllers\findAll()
+in APPPATH\Controllers\Departamentos.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Departamentos->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departamentos))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:13:06 --> Call to undefined function App\Controllers\findAll()
+in APPPATH\Controllers\Departamentos.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Departamentos->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departamentos))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:26:15 --> Undefined variable $titulo
+in APPPATH\Views\principal\header.php on line 21.
+ 1 APPPATH\Views\principal\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'APPPATH\\Views\\principal\\header.php', 21)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\principal\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/principal/header', [], true)
+ 5 APPPATH\Controllers\Municipios.php(22): view('/principal/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Municipios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Municipios))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:26:15 --> Undefined variable $titulo
+in APPPATH\Views\principal\header.php on line 21.
+ 1 APPPATH\Views\principal\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'APPPATH\\Views\\principal\\header.php', 21)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\principal\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/principal/header', [], true)
+ 5 APPPATH\Controllers\Municipios.php(22): view('/principal/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Municipios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Municipios))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:26:31 --> Undefined variable $titulo
+in APPPATH\Views\principal\header.php on line 21.
+ 1 APPPATH\Views\principal\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'APPPATH\\Views\\principal\\header.php', 21)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\principal\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/principal/header', [], true)
+ 5 APPPATH\Controllers\Municipios.php(22): view('/principal/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Municipios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Municipios))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:26:31 --> Undefined variable $titulo
+in APPPATH\Views\principal\header.php on line 21.
+ 1 APPPATH\Views\principal\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'APPPATH\\Views\\principal\\header.php', 21)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\principal\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/principal/header', [], true)
+ 5 APPPATH\Controllers\Municipios.php(22): view('/principal/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Municipios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Municipios))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:26:36 --> Undefined variable $titulo
+in APPPATH\Views\principal\header.php on line 21.
+ 1 APPPATH\Views\principal\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'APPPATH\\Views\\principal\\header.php', 21)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\principal\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/principal/header', [], true)
+ 5 APPPATH\Controllers\Municipios.php(22): view('/principal/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Municipios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Municipios))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:26:36 --> Undefined variable $titulo
+in APPPATH\Views\principal\header.php on line 21.
+ 1 APPPATH\Views\principal\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'APPPATH\\Views\\principal\\header.php', 21)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\principal\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/principal/header', [], true)
+ 5 APPPATH\Controllers\Municipios.php(22): view('/principal/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Municipios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Municipios))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:26:37 --> Undefined variable $titulo
+in APPPATH\Views\principal\header.php on line 21.
+ 1 APPPATH\Views\principal\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'APPPATH\\Views\\principal\\header.php', 21)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\principal\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/principal/header', [], true)
+ 5 APPPATH\Controllers\Municipios.php(22): view('/principal/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Municipios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Municipios))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:26:39 --> Undefined variable $titulo
+in APPPATH\Views\principal\header.php on line 21.
+ 1 APPPATH\Views\principal\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'APPPATH\\Views\\principal\\header.php', 21)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\principal\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/principal/header', [], true)
+ 5 APPPATH\Controllers\Municipios.php(22): view('/principal/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Municipios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Municipios))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:26:39 --> Undefined variable $titulo
+in APPPATH\Views\principal\header.php on line 21.
+ 1 APPPATH\Views\principal\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'APPPATH\\Views\\principal\\header.php', 21)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\principal\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/principal/header', [], true)
+ 5 APPPATH\Controllers\Municipios.php(22): view('/principal/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Municipios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Municipios))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:26:40 --> Undefined variable $titulo
+in APPPATH\Views\principal\header.php on line 21.
+ 1 APPPATH\Views\principal\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'APPPATH\\Views\\principal\\header.php', 21)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\principal\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/principal/header', [], true)
+ 5 APPPATH\Controllers\Municipios.php(22): view('/principal/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Municipios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Municipios))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:26:40 --> Undefined variable $titulo
+in APPPATH\Views\principal\header.php on line 21.
+ 1 APPPATH\Views\principal\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'APPPATH\\Views\\principal\\header.php', 21)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\principal\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/principal/header', [], true)
+ 5 APPPATH\Controllers\Municipios.php(22): view('/principal/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Municipios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Municipios))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:30:59 --> Undefined variable $municipio
+in APPPATH\Controllers\Municipios.php on line 20.
+ 1 APPPATH\Controllers\Municipios.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $municipio', 'APPPATH\\Controllers\\Municipios.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Municipios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Municipios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:31:00 --> Undefined variable $municipio
+in APPPATH\Controllers\Municipios.php on line 20.
+ 1 APPPATH\Controllers\Municipios.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $municipio', 'APPPATH\\Controllers\\Municipios.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Municipios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Municipios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:31:22 --> Undefined array key "codigo"
+in APPPATH\Views\municipios\municipios.php on line 41.
+ 1 APPPATH\Views\municipios\municipios.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "codigo"', 'APPPATH\\Views\\municipios\\municipios.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\municipios\\municipios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/municipios/municipios', [], true)
+ 5 APPPATH\Controllers\Municipios.php(29): view('/municipios/municipios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Municipios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Municipios))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:31:23 --> Undefined array key "codigo"
+in APPPATH\Views\municipios\municipios.php on line 41.
+ 1 APPPATH\Views\municipios\municipios.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "codigo"', 'APPPATH\\Views\\municipios\\municipios.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\municipios\\municipios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/municipios/municipios', [], true)
+ 5 APPPATH\Controllers\Municipios.php(29): view('/municipios/municipios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Municipios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Municipios))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:31:23 --> Undefined array key "codigo"
+in APPPATH\Views\municipios\municipios.php on line 41.
+ 1 APPPATH\Views\municipios\municipios.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "codigo"', 'APPPATH\\Views\\municipios\\municipios.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\municipios\\municipios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/municipios/municipios', [], true)
+ 5 APPPATH\Controllers\Municipios.php(29): view('/municipios/municipios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Municipios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Municipios))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:31:23 --> Undefined array key "codigo"
+in APPPATH\Views\municipios\municipios.php on line 41.
+ 1 APPPATH\Views\municipios\municipios.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "codigo"', 'APPPATH\\Views\\municipios\\municipios.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\municipios\\municipios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/municipios/municipios', [], true)
+ 5 APPPATH\Controllers\Municipios.php(29): view('/municipios/municipios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Municipios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Municipios))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:31:31 --> Undefined array key "id_municipio"
+in APPPATH\Views\municipios\municipios.php on line 41.
+ 1 APPPATH\Views\municipios\municipios.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_municipio"', 'APPPATH\\Views\\municipios\\municipios.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\municipios\\municipios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/municipios/municipios', [], true)
+ 5 APPPATH\Controllers\Municipios.php(29): view('/municipios/municipios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Municipios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Municipios))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:31:32 --> Undefined array key "id_municipio"
+in APPPATH\Views\municipios\municipios.php on line 41.
+ 1 APPPATH\Views\municipios\municipios.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_municipio"', 'APPPATH\\Views\\municipios\\municipios.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\municipios\\municipios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/municipios/municipios', [], true)
+ 5 APPPATH\Controllers\Municipios.php(29): view('/municipios/municipios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Municipios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Municipios))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:31:32 --> Undefined array key "id_municipio"
+in APPPATH\Views\municipios\municipios.php on line 41.
+ 1 APPPATH\Views\municipios\municipios.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_municipio"', 'APPPATH\\Views\\municipios\\municipios.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\municipios\\municipios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/municipios/municipios', [], true)
+ 5 APPPATH\Controllers\Municipios.php(29): view('/municipios/municipios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Municipios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Municipios))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:31:32 --> Undefined array key "id_municipio"
+in APPPATH\Views\municipios\municipios.php on line 41.
+ 1 APPPATH\Views\municipios\municipios.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_municipio"', 'APPPATH\\Views\\municipios\\municipios.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\municipios\\municipios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/municipios/municipios', [], true)
+ 5 APPPATH\Controllers\Municipios.php(29): view('/municipios/municipios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Municipios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Municipios))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:41:23 --> Undefined variable $titulo
+in APPPATH\Views\principal\header.php on line 21.
+ 1 APPPATH\Views\principal\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'APPPATH\\Views\\principal\\header.php', 21)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\principal\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('principal/header', [], true)
+ 5 APPPATH\Controllers\Cargos.php(28): view('principal/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cargos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cargos))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:41:26 --> Undefined variable $titulo
+in APPPATH\Views\principal\header.php on line 21.
+ 1 APPPATH\Views\principal\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'APPPATH\\Views\\principal\\header.php', 21)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\principal\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('principal/header', [], true)
+ 5 APPPATH\Controllers\Cargos.php(28): view('principal/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cargos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cargos))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:48:34 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:48:35 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:50:27 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:50:27 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:50:27 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:50:28 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:50:28 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:51:03 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:51:04 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:52:37 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:52:38 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:52:40 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:52:57 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:57:21 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:57:21 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:57:22 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:57:22 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:57:22 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:57:27 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:57:28 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:57:28 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:57:28 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:57:37 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:57:44 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:57:45 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:57:45 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:57:45 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:58:12 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:58:12 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:58:12 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:59:46 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:59:46 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:59:46 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:59:46 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:59:46 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:59:47 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:59:47 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:59:50 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 03:59:51 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:01:54 --> syntax error, unexpected token "{"
+in APPPATH\Controllers\Empleados.php on line 14.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('empleados')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('empleados')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('empleados')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:01:54 --> syntax error, unexpected token "{"
+in APPPATH\Controllers\Empleados.php on line 14.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('empleados')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('empleados')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('empleados')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:01:56 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:02:21 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:02:36 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:02:38 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:02:44 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:02:44 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:02:44 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:04:04 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:04:05 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:04:08 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:04:35 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:04:36 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:06:09 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:06:09 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:06:10 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:06:10 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:06:30 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:06:36 --> syntax error, unexpected token "="
+in APPPATH\Controllers\Empleados.php on line 15.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('empleados')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('empleados')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('empleados')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:06:42 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:06:43 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:13:49 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:13:50 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:14:02 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:14:02 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:15:24 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:15:39 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:15:39 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:15:39 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:15:40 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:15:40 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:15:46 --> Undefined variable $titulo
+in APPPATH\Views\principal\header.php on line 21.
+ 1 APPPATH\Views\principal\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'APPPATH\\Views\\principal\\header.php', 21)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\principal\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('principal/header', [], true)
+ 5 APPPATH\Controllers\Empleados.php(24): view('principal/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Empleados->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Empleados))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:20:15 --> syntax error, unexpected single-quoted string "fecha_crea", expecting "]"
+in APPPATH\Models\EmpleadoModel.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\EmpleadoModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\EmpleadoModel')
+ 3 APPPATH\Controllers\Empleados.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\EmpleadoModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:22:06 --> syntax error, unexpected variable "$data", expecting ")"
+in APPPATH\Controllers\Empleados.php on line 29.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('empleados')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('empleados')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('empleados')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:22:28 --> syntax error, unexpected variable "$data", expecting ")"
+in APPPATH\Controllers\Empleados.php on line 29.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('empleados')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('empleados')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('empleados')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:22:28 --> syntax error, unexpected variable "$data", expecting ")"
+in APPPATH\Controllers\Empleados.php on line 29.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('empleados')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('empleados')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('empleados')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:22:29 --> syntax error, unexpected variable "$data", expecting ")"
+in APPPATH\Controllers\Empleados.php on line 29.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('empleados')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('empleados')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('empleados')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:23:10 --> Undefined variable $empleado
+in APPPATH\Controllers\Empleados.php on line 25.
+ 1 APPPATH\Controllers\Empleados.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $empleado', 'APPPATH\\Controllers\\Empleados.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Empleados->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Empleados))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:23:11 --> Undefined variable $empleado
+in APPPATH\Controllers\Empleados.php on line 25.
+ 1 APPPATH\Controllers\Empleados.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $empleado', 'APPPATH\\Controllers\\Empleados.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Empleados->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Empleados))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:23:11 --> Undefined variable $empleado
+in APPPATH\Controllers\Empleados.php on line 25.
+ 1 APPPATH\Controllers\Empleados.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $empleado', 'APPPATH\\Controllers\\Empleados.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Empleados->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Empleados))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:23:20 --> Undefined variable $empleado
+in APPPATH\Views\empleados\empleados.php on line 40.
+ 1 APPPATH\Views\empleados\empleados.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $empleado', 'APPPATH\\Views\\empleados\\empleados.php', 40)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\empleados\\empleados.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('empleados/empleados', [], true)
+ 5 APPPATH\Controllers\Empleados.php(28): view('empleados/empleados')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Empleados->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Empleados))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:23:20 --> Undefined variable $empleado
+in APPPATH\Views\empleados\empleados.php on line 40.
+ 1 APPPATH\Views\empleados\empleados.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $empleado', 'APPPATH\\Views\\empleados\\empleados.php', 40)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\empleados\\empleados.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('empleados/empleados', [], true)
+ 5 APPPATH\Controllers\Empleados.php(28): view('empleados/empleados')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Empleados->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Empleados))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:23:45 --> Array to string conversion
+in APPPATH\Controllers\Empleados.php on line 26.
+ 1 APPPATH\Controllers\Empleados.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Controllers\\Empleados.php', 26)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Empleados->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Empleados))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:23:45 --> Array to string conversion
+in APPPATH\Controllers\Empleados.php on line 26.
+ 1 APPPATH\Controllers\Empleados.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Controllers\\Empleados.php', 26)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Empleados->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Empleados))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:23:46 --> Array to string conversion
+in APPPATH\Controllers\Empleados.php on line 26.
+ 1 APPPATH\Controllers\Empleados.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Controllers\\Empleados.php', 26)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Empleados->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Empleados))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:23:46 --> Array to string conversion
+in APPPATH\Controllers\Empleados.php on line 26.
+ 1 APPPATH\Controllers\Empleados.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Controllers\\Empleados.php', 26)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Empleados->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Empleados))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:23:50 --> Undefined variable $empleado
+in APPPATH\Views\empleados\empleados.php on line 40.
+ 1 APPPATH\Views\empleados\empleados.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $empleado', 'APPPATH\\Views\\empleados\\empleados.php', 40)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\empleados\\empleados.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('empleados/empleados', [], true)
+ 5 APPPATH\Controllers\Empleados.php(28): view('empleados/empleados')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Empleados->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Empleados))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 04:23:51 --> Undefined variable $empleado
+in APPPATH\Views\empleados\empleados.php on line 40.
+ 1 APPPATH\Views\empleados\empleados.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $empleado', 'APPPATH\\Views\\empleados\\empleados.php', 40)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\empleados\\empleados.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('empleados/empleados', [], true)
+ 5 APPPATH\Controllers\Empleados.php(28): view('empleados/empleados')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Empleados->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Empleados))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
